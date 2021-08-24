@@ -1,4 +1,4 @@
-import './test'
+// import './test'
 import convert from './romaji-hira-convert'
 
 const input = document.getElementById('input') as HTMLTextAreaElement
